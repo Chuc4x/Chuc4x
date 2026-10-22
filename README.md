@@ -2,7 +2,7 @@
 
 **Ingeniero en Sistemas Computacionales (IPN - ESCOM)**  
 Desarrollo Backend (`.NET` / `Python`), Automatización de Procesos, Integración de APIs y Ciberseguridad (`eJPTv2`)  
-Ciudad de México, México | [LinkedIn](https://www.linkedin.com/in/jesus-buendia-h/) | [alejandrobh212@gmail.com](mailto:alejandrobh212@gmail.com)
+Ciudad de México, México | [jbuendiah01@gmail.com](mailto:jbuendiah01@gmail.com)
 
 ---
 
